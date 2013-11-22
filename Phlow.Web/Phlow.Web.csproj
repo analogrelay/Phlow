@@ -60,6 +60,17 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <Content Include="public\js\app.js" />
+    <None Include="public\js\_references.js" />
+    <Content Include="public\js\controllers.js" />
+    <Content Include="public\lib\angular\angular-route.js" />
+    <Content Include="public\lib\semantic-ui\fonts\basic.icons.eot" />
+    <Content Include="public\lib\semantic-ui\fonts\basic.icons.ttf" />
+    <Content Include="public\lib\semantic-ui\fonts\basic.icons.woff" />
+    <Content Include="public\lib\semantic-ui\fonts\icons.eot" />
+    <Content Include="public\lib\semantic-ui\fonts\icons.otf" />
+    <Content Include="public\lib\semantic-ui\fonts\icons.ttf" />
+    <Content Include="public\lib\semantic-ui\fonts\icons.woff" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -68,7 +79,26 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="public\css\root.css" />
     <Content Include="public\default.html" />
+    <Content Include="public\lib\angular\angular.js" />
+    <Content Include="public\lib\jquery\jquery.js" />
+    <Content Include="public\lib\jquery\version.txt" />
+    <Content Include="public\lib\semantic-ui\css\semantic.css" />
+    <Content Include="public\lib\semantic-ui\css\semantic.min.css" />
+    <Content Include="public\lib\semantic-ui\fonts\basic.icons.svg" />
+    <Content Include="public\lib\semantic-ui\fonts\icons.svg" />
+    <Content Include="public\lib\semantic-ui\images\loader-large-inverted.gif" />
+    <Content Include="public\lib\semantic-ui\images\loader-large.gif" />
+    <Content Include="public\lib\semantic-ui\images\loader-medium-inverted.gif" />
+    <Content Include="public\lib\semantic-ui\images\loader-medium.gif" />
+    <Content Include="public\lib\semantic-ui\images\loader-mini-inverted.gif" />
+    <Content Include="public\lib\semantic-ui\images\loader-mini.gif" />
+    <Content Include="public\lib\semantic-ui\images\loader-small-inverted.gif" />
+    <Content Include="public\lib\semantic-ui\images\loader-small.gif" />
+    <Content Include="public\lib\semantic-ui\javascript\semantic.js" />
+    <Content Include="public\lib\semantic-ui\javascript\semantic.min.js" />
+    <Content Include="public\views\home.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
